@@ -1,7 +1,7 @@
 import time
 import random
 
-failure_threshold = 30   # like startupProbe failureThreshold
+failure_threshold = 3   # like startupProbe failureThreshold
 period_seconds = 5         # like startupProbe periodSeconds
 restart_count = 0
 
